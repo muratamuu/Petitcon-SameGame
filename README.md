@@ -8,7 +8,7 @@ Petitcon-SameGame
 
 ###記事へのリンク
 
-[プチコン3号(BASIC)でさめがめ(Part1)](http://newral.info/publics/index/79/r_id=223/c_id=341/detail=1/&anchor_link=page79_341_223#page79_341_223)  
+[プチコン3号(BASIC)でさめがめ(Part1)](http://newral.info/publics/index/79/r_id=252/c_id=341/detail=1/&anchor_link=page79_341_252#page79_341_252)  
 
 ###ソースコードガイド
 
